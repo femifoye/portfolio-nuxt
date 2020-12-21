@@ -1,0 +1,19 @@
+#navigation {
+  align-items: center;
+  padding: 3px 0;
+}
+
+.toggle-dark-mode {
+  display: flex;
+  align-items: center;
+}
+
+.switch-label {
+  transform: translate(-5px, 0);
+}
+
+#avatar {
+  width: 100px;
+  border-radius: 100%;
+  border: 3px solid;
+}

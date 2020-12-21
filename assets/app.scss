@@ -1,0 +1,15 @@
+@import "navigation";
+@import "icons";
+@import "general";
+
+body {
+  .v-application {
+    .headline {
+      font-family: "Libre Franklin", sans-serif !important;
+    }
+  }
+}
+
+.theme--dark.v-sheet {
+  background-color: #121212 !important;
+}

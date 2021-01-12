@@ -16,11 +16,8 @@
           <p class="f12">{{ work.description }}</p>
         </div>
         <div class="work-action">
-          <a v-if="!work.wip" :href="work.link"
+          <a :href="work.link"
             ><button class="btn visit-button">Visit</button></a
-          >
-          <a v-else :href="work.link"
-            ><button class="btn subscribe-button">Subscribe</button></a
           >
         </div>
       </div>

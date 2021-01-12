@@ -28,9 +28,9 @@ export default {
           id: 2,
           name: "Trakjungle",
           description:
-            "A platform for music creatives in the African region to make money selling their beats online. Subscribe to the newsletter to be informed when Trakjungle launches",
+            "A platform for music creatives in the African region to make money selling their beats online. Trakjungle is currently in demo.",
           wip: true,
-          link: "#",
+          link: "http://trakjungle.com",
           screen:
             "https://res.cloudinary.com/house16-design-studio/image/upload/v1608571819/portfolio/trakjungle-screen-new.png"
         }
